@@ -1,16 +1,16 @@
 ### Hi there 👋
+## Pranav Garg - Software Engineering Lead
+📍 Location: Bay Area, California
 
-<!--
-**pranavgarg/pranavgarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+Hello! I'm Pranav Garg, a seasoned Software Engineering Lead from the Bay Area. With over a decade of experience in full-stack development and leadership, I have successfully led teams and projects that directly improved business outcomes and technical efficiencies across various multinational corporations. I am currently interested in AI and ML space and see how the new generative ai can help improve education.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on exploring generative AI
+- 🌱 I’m currently learning LLM applications on SMB and EdTech market
+- 👯 I’m looking to collaborate on open source projects across EdTech and new 
+- 🤔 I’m looking for help with coaching, mentoring software engineers. 
+- 💬 Ask me about System Design, Engineering leadership
+- 📫 How to reach me: 📧 Email: [pranav_garg@yahoo.com](mailto:pranav_garg@yahoo.com)
+                    🔗 LinkedIn: [Pranav Garg](https://www.linkedin.com/in/garg-pranav)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Hiking mission peak 🥾
