@@ -8,9 +8,9 @@ Hello! I'm Pranav Garg, a seasoned Software Engineering Lead from the Bay Area. 
 - 🔭 I’m currently working on exploring generative AI
 - 🌱 I’m currently learning LLM applications on SMB and EdTech market
 - 👯 I’m looking to collaborate on open source projects across EdTech and new 
-- 🤔 I’m looking for help with coaching, mentoring software engineers. 
-- 💬 Ask me about System Design, Engineering leadership
+- 💬 Ask me about System Design, Stock Investing, Engineering leadership
 - 📫 How to reach me: 📧 Email: [pranav_garg@yahoo.com](mailto:pranav_garg@yahoo.com)
                     🔗 LinkedIn: [Pranav Garg](https://www.linkedin.com/in/garg-pranav)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hiking mission peak 🥾
+              Love value investing
